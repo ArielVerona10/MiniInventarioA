@@ -15,3 +15,5 @@ Abrir el proyecto en IntelliJ IDEA y ejecutar la clase Main.
 ## Nota de verificación
 Este cambio se ha realizado desde una copia clonada del repositorio.
 Pampita y Pampito
+
+Miercoles 25 de agosto error fatal
